@@ -2,7 +2,7 @@ class Main
 {
 public static void main(String[]args)
 {
-int=0;
+int i=0;
 while(true){
 System.out.println(i);
 i++;
